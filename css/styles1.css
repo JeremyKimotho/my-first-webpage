@@ -1,0 +1,22 @@
+h1{
+  text-align: right;
+  color: pink;
+  font-size: 35;
+  font-style: bold;
+  font-family: impact;
+}
+p{
+  text-align:center;
+  color: yellow;
+  font-size: 1;
+  font-family: tahoma;
+}
+strong{
+  font-style: italic;
+  color: brown;
+}
+em{
+  font-style: bold;
+  color: black;
+  font-family: courier;
+}
